@@ -48,6 +48,8 @@ This project is driven by key analytical questions and performance indicators de
 
 ~ How does the stock perform when filtered by specific months, quarters, or years?
 
+Dashboard Interaction <a href ="https://github.com/abrarsaraf/Stock-Market-Data-Analysis/blob/main/stock%20market%20data%20analysis%20dashboard%20image.pdf">View Dashboard</a>
+
 
 ## 🔍 Project Process
 This project follows a structured approach to analyze stock market data of Adani Enterprises Limited using Power BI:
