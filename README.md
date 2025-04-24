@@ -6,6 +6,49 @@ The objective of this project is to analyze the stock performance of Adani Enter
 ## Dataset Used
 <a href="https://github.com/abrarsaraf/Stock-Market-Data-Analysis/blob/main/ADANI%20ENTERPRISES%20LIMITED.ods">Dataset</a>
 
+
+## ❓ Questions / Key Performance Indicators (KPIs)
+This project is driven by key analytical questions and performance indicators designed to assess the historical stock performance of Adani Enterprises Limited:
+
+1 Stock Price Trends
+
+~ What are the daily, weekly, and monthly trends in stock prices over the selected period?
+
+~ How has the closing price evolved over time?
+
+2 Trading Volume Analysis
+
+~ What are the patterns in daily trading volumes?
+
+~ Are there any volume spikes, and how do they align with price movements?
+
+3 Price Volatility
+
+~ How volatile is the stock over specific periods?
+
+~ What is the average daily price range or standard deviation?
+
+4 Highs and Lows
+
+~ What are the highest and lowest stock prices in the selected timeframe?
+
+~ On which dates did these price extremes occur?
+
+5 Moving Averages
+
+~ What are the short-term and long-term moving averages (e.g., 7-day, 30-day)?
+
+~ How do they help identify bullish or bearish trends?
+
+6 Return on Investment (ROI)
+
+~ What would have been the return if an investment was made at different points in time?
+
+7 Time-based Filtering
+
+~ How does the stock perform when filtered by specific months, quarters, or years?
+
+
 ## 🔍 Project Process
 This project follows a structured approach to analyze stock market data of Adani Enterprises Limited using Power BI:
 
