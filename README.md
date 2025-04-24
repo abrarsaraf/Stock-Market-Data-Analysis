@@ -77,3 +77,37 @@ This project follows a structured approach to analyze stock market data of Adani
 5  Insight Generation
 
 ~ Interpreted patterns and anomalies to provide actionable insights into the stock’s historical performance and potential market behavior.
+
+
+## Dashboard
+
+https://github.com/abrarsaraf/Stock-Market-Data-Analysis/blob/main/Screenshot%202025-04-24%20154940.png
+![Screenshot 2025-04-24 154940](https://github.com/user-attachments/assets/4e908879-6fa4-4234-80cf-3a5dd81f773c)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
